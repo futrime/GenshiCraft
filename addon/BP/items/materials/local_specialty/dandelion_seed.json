@@ -1,0 +1,18 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:dandelion_seed",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.Materials.LocalSpecialties"
+			},
+			"minecraft:icon": {
+				"texture": "genshicraft_dandelion_seed"
+			},
+			"genshicraft:common_item": {}
+		}
+	}
+}

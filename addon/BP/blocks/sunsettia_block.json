@@ -1,0 +1,44 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "genshicraft:sunsettia_block"
+		},
+		"components": {
+			"minecraft:block_light_absorption": 0,
+			"minecraft:entity_collision": false,
+			"minecraft:geometry": "geometry.genshicraft_cross",
+			"minecraft:loot": "loot_tables/blocks/sunsettia_block.json",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "genshicraft_sunsettia_block",
+					"render_method": "alpha_test"
+				}
+			},
+			"minecraft:pick_collision": {
+				"origin": [
+					-4,
+					8,
+					-4
+				],
+				"size": [
+					8,
+					8,
+					8
+				]
+			},
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"allowed_faces": [
+							"down"
+						],
+						"block_filter": [
+							"minecraft:leaves"
+						]
+					}
+				]
+			}
+		}
+	}
+}

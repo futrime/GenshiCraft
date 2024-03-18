@@ -1,0 +1,18 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:wanderer_s_advice",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "genshicraft_wanderer_s_advice"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.CharacterDevelopmentMaterials.CharacterEXPMaterials"
+			},
+			"genshicraft:common_item": {}
+		}
+	}
+}

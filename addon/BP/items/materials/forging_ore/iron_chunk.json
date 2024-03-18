@@ -1,0 +1,18 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:iron_chunk",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.Materials.ForgingOre"
+			},
+			"minecraft:icon": {
+				"texture": "genshicraft_iron_chunk"
+			},
+			"genshicraft:common_item": {}
+		}
+	}
+}

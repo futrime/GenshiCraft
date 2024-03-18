@@ -1,0 +1,83 @@
+pack.name=GenshiCraft RP
+pack.description=Play Genshin Impact in Minecraft!
+
+
+
+entity.genshicraft:floating_text.name=Floating Text
+
+
+
+item.genshicraft:mora_1=§b1 Mora
+item.genshicraft:mora_5=§b5 Mora
+item.genshicraft:mora_10=§b10 Mora
+item.genshicraft:mora_50=§b50 Mora
+item.genshicraft:mora_100=§b100 Mora
+item.genshicraft:mora_500=§b500 Mora
+item.genshicraft:mora_1000=§b1000 Mora
+item.genshicraft:mora_5000=§b5000 Mora
+item.genshicraft:mora_10000=§b10000 Mora
+
+item.genshicraft:primogem=§6Primogem
+
+
+item.genshicraft:adventurer_s_flower_1=§fAdventurer's Flower
+item.genshicraft:adventurer_s_flower_2=§aAdventurer's Flower
+item.genshicraft:adventurer_s_flower_3=§bAdventurer's Flower
+item.genshicraft:adventurer_s_tail_feather_1=§fAdventurer's Tail Feather
+item.genshicraft:adventurer_s_tail_feather_2=§aAdventurer's Tail Feather
+item.genshicraft:adventurer_s_tail_feather_3=§bAdventurer's Tail Feather
+item.genshicraft:adventurer_s_pocket_watch_1=§fAdventurer's Pocket Watch
+item.genshicraft:adventurer_s_pocket_watch_2=§aAdventurer's Pocket Watch
+item.genshicraft:adventurer_s_pocket_watch_3=§bAdventurer's Pocket Watch
+item.genshicraft:adventurer_s_golden_goblet_1=§fAdventurer's Golden Goblet
+item.genshicraft:adventurer_s_golden_goblet_2=§aAdventurer's Golden Goblet
+item.genshicraft:adventurer_s_golden_goblet_3=§bAdventurer's Golden Goblet
+item.genshicraft:adventurer_s_bandana_1=§fAdventurer's Bandana
+item.genshicraft:adventurer_s_bandana_2=§aAdventurer's Bandana
+item.genshicraft:adventurer_s_bandana_3=§bAdventurer's Bandana
+
+
+item.genshicraft:dull_blade=§fDull Blade
+item.genshicraft:silver_sword=§aSilver Sword
+item.genshicraft:harbinger_of_dawn=§bHarbinger of Dawn
+item.genshicraft:the_flute=§dThe Flute
+item.genshicraft:mistsplitter_reforged=§6Mistsplitter Reforged
+
+item.genshicraft:enhancement_ore=§fEnhancement Ore
+item.genshicraft:fine_enhancement_ore=§aFine Enhancement Ore
+item.genshicraft:mystic_enhancement_ore=§bMystic Enhancement Ore
+
+
+item.genshicraft:sunsettia=§fSunsettia
+
+
+item.genshicraft:iron_chunk=§fIron Chunk
+item.genshicraft:white_iron_chunk=§fWhite Iron Chunk
+tile.genshicraft:white_iron_ore.name=§fWhite Iron Ore
+
+item.genshicraft:fish=§fFish
+item.genshicraft:fowl=§fFowl
+item.genshicraft:milk=§fMilk
+item.genshicraft:mushroom=§fMushroom
+item.genshicraft:raw_meat=§fRaw Meat
+item.genshicraft:ham=§aHam
+
+item.genshicraft:calla_lily=§fCalla Lily
+tile.genshicraft:calla_lily_block.name=§fCalla Lily Block
+item.genshicraft:cecilia=§fCecilia
+tile.genshicraft:cecilia_block.name=§fCecilia Block
+item.genshicraft:dandelion_seed=§fDandelion Seed
+item.genshicraft:small_lamp_grass=§fSmall Lamp Grass
+tile.genshicraft:small_lamp_grass_block.name=§fSmall Lamp Grass Block
+item.genshicraft:windwheel_aster=§fWindwheel Aster
+tile.genshicraft:windwheel_aster_block.name=§fWindwheel Aster Block
+
+
+item.genshicraft:wanderer_s_advice=§aWanderer's Advice
+item.genshicraft:adventurer_s_experience=§bAdventurer's Experience
+item.genshicraft:hero_s_wit=§dHero's Wit
+
+
+item.genshicraft:acquaint_fate=§6Acquaint Fate
+item.genshicraft:intertwined_fate=§6Intertwined Fate
+item.spawn_egg.entity.genshicraft:floating_text.name=Spawn Floating Text

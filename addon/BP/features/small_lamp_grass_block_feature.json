@@ -1,0 +1,24 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:single_block_feature": {
+		"description": {
+			"identifier": "genshicraft:small_lamp_grass_block_feature"
+		},
+		"enforce_placement_rules": false,
+		"enforce_survivability_rules": false,
+		"may_attach_to": {
+			"bottom": [
+				"minecraft:grass",
+				"minecraft:dirt"
+			],
+			"min_sides_must_attach": 1,
+			"sides": [
+				"minecraft:log"
+			]
+		},
+		"may_replace": [
+			"minecraft:air"
+		],
+		"places_block": "genshicraft:small_lamp_grass_block"
+	}
+}

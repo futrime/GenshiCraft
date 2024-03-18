@@ -1,0 +1,18 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:adventurer_s_experience",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "genshicraft_adventurer_s_experience"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.CharacterDevelopmentMaterials.CharacterEXPMaterials"
+			},
+			"genshicraft:common_item": {}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:mistsplitter_reforged",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "genshicraft_mistsplitter_reforged"
+			},
+			"minecraft:render_offsets": {
+				"main_hand": {
+					"first_person": {
+						"scale": [
+							0.01,
+							0.01,
+							0.01
+						]
+					},
+					"third_person": {
+						"scale": [
+							0.01,
+							0.01,
+							0.01
+						]
+					}
+				}
+			},
+			"genshicraft:weapon": {
+				"rarity": 5,
+				"type": "Sword"
+			}
+		}
+	}
+}

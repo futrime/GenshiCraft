@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Futrime"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			19,
+			0
+		],
+		"uuid": "74767e76-16fb-4677-a9da-ebd93a4812dd",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "e12308b8-0542-4d21-a701-b9f7489f51f5",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "974107e5-c37a-4cc2-bfb5-7419b9c4a896",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

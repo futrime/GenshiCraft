@@ -1,0 +1,23 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:single_block_feature": {
+		"description": {
+			"identifier": "genshicraft:calla_lily_block_feature"
+		},
+		"enforce_placement_rules": false,
+		"enforce_survivability_rules": false,
+		"may_attach_to": {
+			"bottom": [
+				"minecraft:sand",
+				"minecraft:dirt"
+			],
+			"top": [
+				"minecraft:air"
+			]
+		},
+		"may_replace": [
+			"minecraft:water"
+		],
+		"places_block": "genshicraft:calla_lily_block"
+	}
+}

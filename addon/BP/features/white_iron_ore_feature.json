@@ -1,0 +1,19 @@
+{
+	"format_version": "1.17.0",
+	"minecraft:ore_feature": {
+		"description": {
+			"identifier": "genshicraft:white_iron_ore_feature"
+		},
+		"count": 4,
+		"replace_rules": [
+			{
+				"places_block": "genshicraft:white_iron_ore",
+				"may_replace": [
+					{
+						"name": "minecraft:stone"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:windwheel_aster",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:block_placer": {
+				"block": "genshicraft:windwheel_aster_block"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.Materials.LocalSpecialties"
+			},
+			"minecraft:icon": {
+				"texture": "genshicraft_windwheel_aster"
+			},
+			"genshicraft:common_item": {}
+		}
+	}
+}

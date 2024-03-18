@@ -1,0 +1,36 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:acquaint_fate",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "genshicraft_acquaint_fate"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.PreciousItems"
+			},
+			"minecraft:render_offsets": {
+				"main_hand": {
+					"first_person": {
+						"scale": [
+							0.01,
+							0.01,
+							0.01
+						]
+					},
+					"third_person": {
+						"scale": [
+							0.01,
+							0.01,
+							0.01
+						]
+					}
+				}
+			},
+			"genshicraft:common_item": {}
+		}
+	}
+}

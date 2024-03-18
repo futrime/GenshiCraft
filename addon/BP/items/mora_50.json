@@ -1,0 +1,36 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:mora_50",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "genshicraft_mora"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.Mora"
+			},
+			"minecraft:render_offsets": {
+				"main_hand": {
+					"first_person": {
+						"scale": [
+							0.01,
+							0.01,
+							0.01
+						]
+					},
+					"third_person": {
+						"scale": [
+							0.01,
+							0.01,
+							0.01
+						]
+					}
+				}
+			},
+			"genshicraft:common_item": {}
+		}
+	}
+}

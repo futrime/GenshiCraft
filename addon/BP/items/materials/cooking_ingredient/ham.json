@@ -1,0 +1,19 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:ham",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.Materials.CookingIngredients"
+			},
+			"minecraft:icon": {
+				"texture": "genshicraft_ham"
+			},
+			
+			"genshicraft:common_item": {}
+		}
+	}
+}

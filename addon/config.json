@@ -1,0 +1,44 @@
+{
+	"type": "minecraftBedrock",
+	"name": "GenshiCraft",
+	"namespace": "genshicraft",
+	"authors": [
+		"Futrime"
+	],
+	"targetVersion": "1.19.0",
+	"description": "Play Genshin Impact in Minecraft!",
+	"experimentalGameplay": {
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": true,
+		"upcomingCreatorFeatures": true,
+		"enableGameTestFramework": true,
+		"experimentalMolangFeatures": true,
+		"theWildUpdate": true,
+		"educationEdition": false
+	},
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "GenshiCraft"
+				}
+			]
+		]
+	}
+}

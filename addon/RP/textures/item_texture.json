@@ -1,0 +1,108 @@
+{
+	"resource_pack_name": "GenshiCraft",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"genshicraft_mora": {
+			"textures": "textures/items/mora"
+		},
+		"genshicraft_primogem": {
+			"textures": "textures/items/primogem"
+		},
+		"genshicraft_adventurer_s_flower": {
+			"textures": "textures/items/artifacts/adventurer/adventurer_s_flower"
+		},
+		"genshicraft_adventurer_s_tail_feather": {
+			"textures": "textures/items/artifacts/adventurer/adventurer_s_tail_feather"
+		},
+		"genshicraft_adventurer_s_pocket_watch": {
+			"textures": "textures/items/artifacts/adventurer/adventurer_s_pocket_watch"
+		},
+		"genshicraft_adventurer_s_golden_goblet": {
+			"textures": "textures/items/artifacts/adventurer/adventurer_s_golden_goblet"
+		},
+		"genshicraft_adventurer_s_bandana": {
+			"textures": "textures/items/artifacts/adventurer/adventurer_s_bandana"
+		},
+		"genshicraft_dull_blade": {
+			"textures": "textures/items/weapons/sword/dull_blade"
+		},
+		"genshicraft_harbinger_of_dawn": {
+			"textures": "textures/items/weapons/sword/harbinger_of_dawn"
+		},
+		"genshicraft_silver_sword": {
+			"textures": "textures/items/weapons/sword/silver_sword"
+		},
+		"genshicraft_the_flute": {
+			"textures": "textures/items/weapons/sword/the_flute"
+		},
+		"genshicraft_mistsplitter_reforged": {
+			"textures": "textures/items/weapons/sword/mistsplitter_reforged"
+		},
+		"genshicraft_enhancement_ore": {
+			"textures": "textures/items/weapons/weapon_enhancement_material/enhancement_ore"
+		},
+		"genshicraft_fine_enhancement_ore": {
+			"textures": "textures/items/weapons/weapon_enhancement_material/fine_enhancement_ore"
+		},
+		"genshicraft_mystic_enhancement_ore": {
+			"textures": "textures/items/weapons/weapon_enhancement_material/mystic_enhancement_ore"
+		},
+		"genshicraft_adventurer_s_experience": {
+			"textures": "textures/items/character_development_items/character_exp_material/adventurer_s_experience"
+		},
+		"genshicraft_wanderer_s_advice": {
+			"textures": "textures/items/character_development_items/character_exp_material/wanderer_s_advice"
+		},
+		"genshicraft_hero_s_wit": {
+			"textures": "textures/items/character_development_items/character_exp_material/hero_s_wit"
+		},
+		"genshicraft_sunsettia": {
+			"textures": "textures/items/food/sunsettia"
+		},
+		"genshicraft_iron_chunk": {
+			"textures": "textures/items/materials/forging_ore/iron_chunk"
+		},
+		"genshicraft_white_iron_chunk": {
+			"textures": "textures/items/materials/forging_ore/white_iron_chunk"
+		},
+		"genshicraft_fish": {
+			"textures": "textures/items/materials/cooking_ingredient/fish"
+		},
+		"genshicraft_fowl": {
+			"textures": "textures/items/materials/cooking_ingredient/fowl"
+		},
+		"genshicraft_milk": {
+			"textures": "textures/items/materials/cooking_ingredient/milk"
+		},
+		"genshicraft_mushroom": {
+			"textures": "textures/items/materials/cooking_ingredient/mushroom"
+		},
+		"genshicraft_raw_meat": {
+			"textures": "textures/items/materials/cooking_ingredient/raw_meat"
+		},
+		"genshicraft_ham": {
+			"textures": "textures/items/materials/cooking_ingredient/ham"
+		},
+		"genshicraft_calla_lily": {
+			"textures": "textures/items/materials/local_specialty/calla_lily"
+		},
+		"genshicraft_cecilia": {
+			"textures": "textures/items/materials/local_specialty/cecilia"
+		},
+		"genshicraft_dandelion_seed": {
+			"textures": "textures/items/materials/local_specialty/dandelion_seed"
+		},
+		"genshicraft_small_lamp_grass": {
+			"textures": "textures/items/materials/local_specialty/small_lamp_grass"
+		},
+		"genshicraft_windwheel_aster": {
+			"textures": "textures/items/materials/local_specialty/windwheel_aster"
+		},
+		"genshicraft_acquaint_fate": {
+			"textures": "textures/items/precious_items/acquaint_fate"
+		},
+		"genshicraft_intertwined_fate": {
+			"textures": "textures/items/precious_items/intertwined_fate"
+		}
+	}
+}

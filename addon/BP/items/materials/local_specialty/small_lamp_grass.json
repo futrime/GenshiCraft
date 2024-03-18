@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:small_lamp_grass",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:block_placer": {
+				"block": "genshicraft:small_lamp_grass_block"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.Materials.LocalSpecialties"
+			},
+			"minecraft:icon": {
+				"texture": "genshicraft_small_lamp_grass"
+			},
+			"genshicraft:common_item": {}
+		}
+	}
+}

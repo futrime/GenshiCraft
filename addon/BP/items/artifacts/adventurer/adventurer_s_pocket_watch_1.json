@@ -1,0 +1,19 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:adventurer_s_pocket_watch_1",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "genshicraft_adventurer_s_pocket_watch"
+			},
+			"genshicraft:artifact": {
+				"rarity": 1,
+				"series": "Adventurer",
+				"type": "Sands of Eon"
+			}
+		}
+	}
+}

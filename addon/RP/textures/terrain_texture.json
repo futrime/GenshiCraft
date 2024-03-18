@@ -1,0 +1,26 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "GenshiCraft",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"genshicraft_sunsettia_block": {
+			"textures": "textures/blocks/sunsettia_block"
+		},
+		"genshicraft_white_iron_ore": {
+			"textures": "textures/blocks/white_iron_ore"
+		},
+		"genshicraft_calla_lily_block": {
+			"textures": "textures/blocks/calla_lily_block"
+		},
+		"genshicraft_cecilia_block": {
+			"textures": "textures/blocks/cecilia_block"
+		},
+		"genshicraft_small_lamp_grass_block": {
+			"textures": "textures/blocks/small_lamp_grass_block"
+		},
+		"genshicraft_windwheel_aster_block": {
+			"textures": "textures/blocks/windwheel_aster_block"
+		}
+	}
+}

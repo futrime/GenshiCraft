@@ -1,0 +1,18 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:hero_s_wit",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "genshicraft_hero_s_wit"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.CharacterDevelopmentMaterials.CharacterEXPMaterials"
+			},
+			"genshicraft:common_item": {}
+		}
+	}
+}

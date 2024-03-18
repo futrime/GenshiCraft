@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "genshicraft:emerald_from_more_100"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "genshicraft:mora_100",
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:emerald",
+				"count": 1
+			}
+		]
+	}
+}

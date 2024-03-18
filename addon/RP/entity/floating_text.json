@@ -1,0 +1,20 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "genshicraft:floating_text",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/floating_text"
+			},
+			"geometry": {
+				"default": "geometry.floating_text"
+			},
+			"render_controllers": [
+				"controller.render.floating_text"
+			]
+		}
+	}
+}

@@ -1,0 +1,233 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "genshicraft:primogem",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 5,
+								"max": 10
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "genshicraft:mora_1",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 33,
+								"max": 33
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "genshicraft:mora_100",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 14,
+								"max": 14
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "genshicraft:fine_enhancement_ore",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "genshicraft:mystic_enhancement_ore",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_experience",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "genshicraft:hero_s_wit",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 0,
+								"max": 1
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "genshicraft:silver_sword",
+					"weight": 5
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:dull_blade",
+					"weight": 10
+				},
+				{
+					"type": "empty",
+					"weight": 84
+				}
+			]
+		},
+		{
+			"rolls": 5,
+			"entries": [
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_flower_1",
+					"weight": 10
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_tail_feather_1",
+					"weight": 10
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_pocket_watch_1",
+					"weight": 10
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_golden_goblet_1",
+					"weight": 10
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_bandana_1",
+					"weight": 10
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_flower_2",
+					"weight": 5
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_tail_feather_2",
+					"weight": 5
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_pocket_watch_2",
+					"weight": 5
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_golden_goblet_2",
+					"weight": 5
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_bandana_2",
+					"weight": 5
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_flower_3",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_tail_feather_3",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_pocket_watch_3",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_golden_goblet_3",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "genshicraft:adventurer_s_bandana_3",
+					"weight": 1
+				},
+				{
+					"type": "empty",
+					"weight": 420
+				}
+			]
+		}
+	]
+}

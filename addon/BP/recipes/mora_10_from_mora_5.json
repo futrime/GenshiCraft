@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "genshicraft:mora_10_from_mora_5"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "genshicraft:mora_5",
+				"count": 2
+			}
+		],
+		"result": [
+			{
+				"item": "genshicraft:mora_10",
+				"count": 1
+			}
+		]
+	}
+}

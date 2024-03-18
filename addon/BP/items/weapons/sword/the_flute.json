@@ -1,0 +1,36 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:the_flute",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "genshicraft_the_flute"
+			},
+			"minecraft:render_offsets": {
+				"main_hand": {
+					"first_person": {
+						"scale": [
+							0.01,
+							0.01,
+							0.01
+						]
+					},
+					"third_person": {
+						"scale": [
+							0.01,
+							0.01,
+							0.01
+						]
+					}
+				}
+			},
+			"genshicraft:weapon": {
+				"rarity": 4,
+				"type": "Sword"
+			}
+		}
+	}
+}

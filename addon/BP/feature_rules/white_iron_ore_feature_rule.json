@@ -1,0 +1,55 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:feature_rules": {
+		"description": {
+			"identifier": "genshicraft:white_iron_ore_feature_rule",
+			"places_feature": "genshicraft:white_iron_ore_feature"
+		},
+		"conditions": {
+			"placement_pass": "underground_pass",
+			"minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"value": "caves"
+						},
+						{
+							"test": "has_biome_tag",
+							"value": "mountain"
+						},
+						{
+							"test": "has_biome_tag",
+							"value": "mountains"
+						}
+					]
+				}
+			]
+		},
+		"distribution": {
+			"iterations": 16,
+			"coordinate_eval_order": "zyx",
+			"x": {
+				"distribution": "uniform",
+				"extent": [
+					0,
+					16
+				]
+			},
+			"y": {
+				"distribution": "gaussian",
+				"extent": [
+					31,
+					95
+				]
+			},
+			"z": {
+				"distribution": "uniform",
+				"extent": [
+					0,
+					16
+				]
+			}
+		}
+	}
+}

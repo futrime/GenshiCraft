@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "genshicraft:calla_lily",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:block_placer": {
+				"block": "genshicraft:calla_lily_block"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.GenshiCraft.Materials.LocalSpecialties"
+			},
+			"minecraft:icon": {
+				"texture": "genshicraft_calla_lily"
+			},
+			"genshicraft:common_item": {}
+		}
+	}
+}

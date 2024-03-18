@@ -1,0 +1,50 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "genshicraft:floating_text",
+			"is_spawnable": false,
+			"is_summonable": true,
+			"is_experimental": false
+		},
+		"component_groups": {
+			"genshicraft:despawning": {
+				"minecraft:instant_despawn": {}
+			}
+		},
+		"components": {
+			"minecraft:damage_sensor": {
+				"triggers": [
+					{
+						"deals_damage": false
+					}
+				]
+			},
+			"minecraft:collision_box": {
+				"height": 0,
+				"width": 0
+			},
+			"minecraft:nameable": {
+				"always_show": true
+			},
+			"minecraft:timer": {
+				"time": [
+					0.5,
+					0.5
+				],
+				"time_down_event": {
+					"event": "genshicraft:despawn"
+				}
+			}
+		},
+		"events": {
+			"genshicraft:despawn": {
+				"add": {
+					"component_groups": [
+						"genshicraft:despawning"
+					]
+				}
+			}
+		}
+	}
+}
